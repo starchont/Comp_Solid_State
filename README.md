@@ -15,7 +15,7 @@ Diffusion Limited Aggregation (DLA)
 Percolation
 
 ***Problem 4:***
-Erdos Renyi Network, Small World Network, Power Law Network*
+Erdos Renyi Network, Small World Network, Power Law Network
 
 ***Problem 5:***
 An ANN for X-OR Problem
